@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>M Style Peluqueros | Centro de Estilismo en Coslada</title>
+    <meta name="description" content="M Style Peluqueros - Expertos en estilismo y cuidado capilar en Coslada. Cortes, color, tratamientos capilares y arreglo de barba premium. Tu mejor versión comienza aquí." />
+    <meta name="keywords" content="peluquería Coslada, barbería, corte de pelo, color, mechas, tratamientos capilares, estilismo Madrid" />
+    <meta name="author" content="M Style Peluqueros" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta property="og:title" content="M Style Peluqueros | Centro de Estilismo en Coslada" />
+    <meta property="og:description" content="Expertos en estilismo y cuidado capilar en el centro de Coslada. Tu mejor versión comienza aquí." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@MStylePeluqueros" />
+    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
